@@ -6,4 +6,4 @@
 192.168.50.12
 [Redhat:children]
 stream
-focal
+rhel
