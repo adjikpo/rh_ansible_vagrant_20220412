@@ -1,0 +1,9 @@
+[rhel]
+192.168.50.10
+[stream]
+192.168.50.11
+[focal]
+192.168.50.12
+[Redhat:children]
+stream
+focal
